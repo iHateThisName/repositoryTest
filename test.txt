@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 first commit
 
 
 bla bla bla
+=======
+2
+
+first commit
+>>>>>>> 5bde8b4ee47d011f98bcd8506cd785823bc23fb3
